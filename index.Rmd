@@ -1,6 +1,6 @@
 ---
 title: "INT214: Workshop"
-author: "by: _____________"
+author: "by:Jakarin Chabubpa"
 output: html_document
 ---
 
